@@ -1,5 +1,5 @@
 # 🌤️ Weather App
-Built by Nithya Vangala | PM Accelerator Technical Assessment
+Built by Nithya Vangala
 
 ## About This Project
 A full-stack weather application built with React.js (frontend) and Python FastAPI (backend). Users can search for real-time weather data, view 5-day forecasts, and save/manage weather records with full CRUD functionality.
